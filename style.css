@@ -70,6 +70,7 @@ body {
     text-align: center;
 } */
 .hero-img {
+    margin: 1rem;
     max-width: 80%;
     /* width: 350px; */
 }
